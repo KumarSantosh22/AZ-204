@@ -396,3 +396,6 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+/AzureFunctions/FuncApp.Demo.HttpTriggered/Properties/ServiceDependencies/func0902 - Zip Deploy/profile.arm.json
+/AzureFunctions/FuncApp.Demo.HttpTriggered/Properties/ServiceDependencies/func0902 - Zip Deploy/storage1.arm.json
+/AzureFunctions/FuncApp.Demo.HttpTriggered/Properties/serviceDependencies.func0902 - Zip Deploy.json
