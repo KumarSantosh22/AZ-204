@@ -1,0 +1,14 @@
+{
+  "profiles": {
+    "FuncApp.Demo.HttpTriggered": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7141"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker",
+      "launchUrl": "{Scheme}://{ServiceHost}:{ServicePort}",
+      "httpPort": 30532,
+      "useSSL": false
+    }
+  }
+}
