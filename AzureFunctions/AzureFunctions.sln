@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35208.52
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FuncApp.Demo.HttpTriggered", "FuncApp.Demo.HttpTriggered\FuncApp.Demo.HttpTriggered.csproj", "{20B5EAE8-00B3-4311-A237-4DC413C5754B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Func.HttpTriggered", "Func.HttpTriggered\Func.HttpTriggered.csproj", "{97226E53-9A6B-4448-B742-1958F0DE828E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{20B5EAE8-00B3-4311-A237-4DC413C5754B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{20B5EAE8-00B3-4311-A237-4DC413C5754B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{20B5EAE8-00B3-4311-A237-4DC413C5754B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{20B5EAE8-00B3-4311-A237-4DC413C5754B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97226E53-9A6B-4448-B742-1958F0DE828E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97226E53-9A6B-4448-B742-1958F0DE828E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97226E53-9A6B-4448-B742-1958F0DE828E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97226E53-9A6B-4448-B742-1958F0DE828E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
