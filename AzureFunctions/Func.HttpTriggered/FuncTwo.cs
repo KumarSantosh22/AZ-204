@@ -2,7 +2,6 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Azure.Functions.Worker;
 using Microsoft.Extensions.Logging;
-using System.Reflection.PortableExecutable;
 using System.Text.Json;
 
 namespace Func.HttpTriggered

@@ -5,6 +5,13 @@ VisualStudioVersion = 17.11.35208.52
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Func.HttpTriggered", "Func.HttpTriggered\Func.HttpTriggered.csproj", "{97226E53-9A6B-4448-B742-1958F0DE828E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Func.EventHubTriggered", "Func.EventHubTriggered\Func.EventHubTriggered.csproj", "{4F2EE9EB-6A97-49ED-B9E3-A6E0FF3FBF00}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}"
+	ProjectSection(SolutionItems) = preProject
+		deploy.ps1 = deploy.ps1
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +22,10 @@ Global
 		{97226E53-9A6B-4448-B742-1958F0DE828E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{97226E53-9A6B-4448-B742-1958F0DE828E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{97226E53-9A6B-4448-B742-1958F0DE828E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F2EE9EB-6A97-49ED-B9E3-A6E0FF3FBF00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F2EE9EB-6A97-49ED-B9E3-A6E0FF3FBF00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F2EE9EB-6A97-49ED-B9E3-A6E0FF3FBF00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F2EE9EB-6A97-49ED-B9E3-A6E0FF3FBF00}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

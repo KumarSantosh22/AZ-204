@@ -1,0 +1,15 @@
+{
+  "profiles": {
+    "Func.EventHubTriggered": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7027"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker",
+      "launchUrl": "{Scheme}://{ServiceHost}:{ServicePort}",
+      "containerRunArguments": "--init",
+      "httpPort": 34056,
+      "useSSL": false
+    }
+  }
+}
