@@ -1,0 +1,15 @@
+{
+  "profiles": {
+    "Func.TimerTriggered": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7024"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker",
+      "launchUrl": "{Scheme}://{ServiceHost}:{ServicePort}",
+      "containerRunArguments": "--init",
+      "httpPort": 32268,
+      "useSSL": false
+    }
+  }
+}
