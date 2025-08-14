@@ -14,6 +14,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Func.TimerTriggered", "Func.TimerTriggered\Func.TimerTriggered.csproj", "{9F8E92BB-60F4-4A48-9ADD-4906722AA1EF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Func.Durable", "Func.Durable\Func.Durable.csproj", "{F181CE28-A908-4A3A-A7B7-A7591C0E3534}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -32,6 +34,10 @@ Global
 		{9F8E92BB-60F4-4A48-9ADD-4906722AA1EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9F8E92BB-60F4-4A48-9ADD-4906722AA1EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9F8E92BB-60F4-4A48-9ADD-4906722AA1EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F181CE28-A908-4A3A-A7B7-A7591C0E3534}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F181CE28-A908-4A3A-A7B7-A7591C0E3534}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F181CE28-A908-4A3A-A7B7-A7591C0E3534}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F181CE28-A908-4A3A-A7B7-A7591C0E3534}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
